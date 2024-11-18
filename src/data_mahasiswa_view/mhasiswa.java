@@ -15,7 +15,7 @@ import org.json.*;
 public class mhasiswa extends javax.swing.JFrame {
 
     /**
-     * Creates new form framemahasiswa
+     * Creates new form 
      */
     public mhasiswa() {
         initComponents();
